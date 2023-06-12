@@ -32,8 +32,9 @@ This Tableau dashboard provides a comprehensive view of COVID-19 cases in India 
 
 <h3>Screenshots:</h3>
 
-![image](https://github.com/varundeepakgudhe/Covid-19_India_Tableau/assets/112991463/956c6495-8240-4fdd-8eff-e4e565a9e0d3)
+![image](https://github.com/varundeepakgudhe/Covid-19_India_Tableau/assets/112991463/9ecaea06-14c5-40ec-85c3-f552b8d974a1)
 
-![image](https://github.com/varundeepakgudhe/Covid-19_India_Tableau/assets/112991463/0b2abbe3-d050-4f57-bae6-143f6e825bdf)
+![image](https://github.com/varundeepakgudhe/Covid-19_India_Tableau/assets/112991463/8dbb5be4-abeb-4823-baaa-54fbb03b6c3a)
 
-![image](https://github.com/varundeepakgudhe/Covid-19_India_Tableau/assets/112991463/48277811-0c92-4a4f-9916-39a2a24eb56e)
+![image](https://github.com/varundeepakgudhe/Covid-19_India_Tableau/assets/112991463/735bbcfb-7744-4639-989e-a64f1769a734)
+
